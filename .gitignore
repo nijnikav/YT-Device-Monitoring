@@ -1,0 +1,7 @@
+### Python template
+# Byte-complited / optimized / DLL files
+__pycache__
+*.py [cod] # Будут игнорироваться файлы с любым именем и расширениями .pyc, .pyo, pyd
+docker-compose.yaml
+log/
+resources/products.json
